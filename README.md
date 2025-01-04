@@ -5,7 +5,7 @@
   <h4>Website :‌ <a href="https://rezaghazikhani.ir">Rezaghazikhani.ir<a/></h4>
   
 </div>
-<h1>lan<h1/>
+<h1>Skills <h1/>
       <img src="./js.webp" width='50px'/>
       <img src="./html.webp" width='50px'/>
         <img src="./css.web" width='50px'/>
