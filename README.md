@@ -11,5 +11,5 @@
         <img src="./css.web" width='50px'/>
       <img src="./bootstrap.webp" width='50px'/>
         <img src="./python.webp" width='50px'/>
-        <img src="./Wp.web" width='50px'/>
+        <img src="./Wp.webp" width='50px'/>
 
