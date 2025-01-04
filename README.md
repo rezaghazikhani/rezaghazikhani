@@ -6,4 +6,10 @@
   
 </div>
 <h1>lan<h1/>
-      <img src="./js.webp" width='50px'/><img src="./js.webp" width='50px'/>
+      <img src="./js.webp" width='50px'/>
+      <img src="./html.webp" width='50px'/>
+        <img src="./css.webp" width='50px'/>
+      <img src="./bootstrap.webp" width='50px'/>
+        <img src="./python.webp" width='50px'/>
+        <img src="./Wp.webp" width='50px'
+
