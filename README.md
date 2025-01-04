@@ -12,4 +12,6 @@
       <img src="./bootstrap.webp" width='50px'/>
         <img src="./python.webp" width='50px'/>
         <img src="./Wp.webp" width='50px'/>
+        <img src="./vecteezy_free-logo-github_53066802.png" width='50px'/>
+        
 
